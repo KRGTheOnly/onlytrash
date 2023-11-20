@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+main
+ot
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+
+# Ignore binary output folders
+bin/
+trashcan/
+
+# Ignore common editor/system specific metadata
+.DS_Store
+.idea/
+.vscode/
+*.iml
+.ignore
+
+# ENV
+.env
+
+# vweb and database
+*.db
+*.js
